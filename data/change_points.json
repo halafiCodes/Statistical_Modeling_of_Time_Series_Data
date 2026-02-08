@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-02-05",
+  "model": "single_change_point_mean_shift",
+  "change_points": [
+    {
+      "date": "2020-03-06",
+      "mean_before": -0.0012,
+      "mean_after": -0.0068,
+      "impact_pct": -0.56,
+      "notes": "Example placeholder; replace with notebook outputs."
+    }
+  ]
+}
