@@ -1,0 +1,16 @@
+date,event,category
+1990-08-02,Iraq invades Kuwait (Gulf War),Geopolitical Conflict
+2001-09-11,September 11 attacks,Geopolitical Conflict
+2003-03-20,U.S.-led invasion of Iraq,Geopolitical Conflict
+2008-09-15,Global financial crisis intensifies (Lehman collapse),Economic Shock
+2011-02-15,Libyan civil war escalates,Geopolitical Conflict
+2014-11-27,OPEC decides to maintain output despite price fall,Policy/OPEC
+2016-11-30,OPEC+ coordinated production cuts announced,Policy/OPEC
+2018-05-08,U.S. withdraws from Iran nuclear deal (sanctions reimposed),Sanctions
+2019-09-14,Attack on Saudi Aramco facilities,Geopolitical Conflict
+2020-03-06,OPEC+ talks collapse (price war),Policy/OPEC
+2020-04-20,WTI futures negative amid COVID demand crash,Economic Shock
+2020-06-23,OPEC+ extends production cuts,Policy/OPEC
+2022-02-24,Russia invades Ukraine,Geopolitical Conflict
+2022-03-31,U.S. announces strategic petroleum reserve releases,Policy/Strategic
+2022-10-05,OPEC+ announces significant production cuts,Policy/OPEC

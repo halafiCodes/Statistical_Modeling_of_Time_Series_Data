@@ -1,4 +1,9 @@
-data/
+# Data (track the core datasets needed for Tasks 1/2)
+data/*
+!data/README.md
+!data/BrentOilPrices.csv
+!data/change_points.json
+!data/events.csv
 .venv/
 .venv312/
 __pycache__/
