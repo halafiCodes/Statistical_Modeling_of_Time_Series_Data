@@ -59,6 +59,7 @@ A structured CSV is provided in data/events.csv. It includes major events such a
 - **Stationarity**: Log returns are expected to be closer to stationary, which is suitable for mean-shift change point modeling.
 - **Volatility clustering**: Periods of high volatility suggest potential benefits from regime-switching or heteroskedastic models in future work.
 
-## 7) References Reviewed
+## 7) References Reviewed and consulted
+- PyMC documentation for Bayesian modeling and MCMC techniques.
 - Bayesian inference fundamentals, MCMC, and change point detection in time series.
 - General data science workflow references for reproducible analytics.
